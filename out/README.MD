@@ -1,0 +1,1 @@
+This is the output folder. it can be modified via the config; However it has to exist prior to program execution!
