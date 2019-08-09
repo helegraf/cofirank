@@ -73,6 +73,9 @@ int main(int argc, char **argv) {
         running.close();
         std::clog << "All output including logs will go to " << outFolder << std::endl;
         std::ofstream clogOut((outFolder + "clog.txt").c_str());
+
+        std::streambuf *clogbuf = std::clog.rdbuf(); //save old buf
+
         std::clog.rdbuf(clogOut.rdbuf());
         std::clog << "Starting up" << std::endl;
         std::clog << "Configuration file used: " << configFileName << std::endl;
@@ -102,6 +105,7 @@ int main(int argc, char **argv) {
         // All done
         std::clog << "Done!" << std::endl;
         std::cout << "Done!" << std::endl;
+        std::clog.rdbuf(clogbuf);
         clogOut.close();
         std::ofstream done((outFolder + "COFI-DONE").c_str());
         done.close();

@@ -64,7 +64,7 @@ OBJECTFILES= \
 CFLAGS=
 
 # CC Compiler Flags
-CCFLAGS=
+CCFLAGS= -stdlib=libstdc++
 CXXFLAGS=
 
 # Fortran Compiler Flags
