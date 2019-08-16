@@ -1,0 +1,242 @@
+Starting up
+Configuration file used: config/movielens_N-50_seed-7.cfg
+Evaluation Mode: WEAK
+Problem:: we have 497 rows and 1682 columns in D
+Problem: Reading train data from data/data-u.data_N-50_seed-7_train.lsvm
+Problem: Reading test data from data/data-u.data_N-50_seed-7_test.lsvm
+DomainModelFactory::DomainModelFactory: Using ORDINAL
+COFIBMRM: User Phase started in iteration 0
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 0
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+Found better M in iteration 0
+COFIBMRM: User Phase started in iteration 1
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 1
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+Found better M in iteration 1
+COFIBMRM: User Phase started in iteration 2
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 2
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 3
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 3
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+Found better M in iteration 3
+COFIBMRM: User Phase started in iteration 4
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 4
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+Found better M in iteration 4
+COFIBMRM: User Phase started in iteration 5
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 5
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+Found better M in iteration 5
+COFIBMRM: User Phase started in iteration 6
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 6
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 7
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 7
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 8
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 8
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 9
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 9
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 10
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 10
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 11
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 11
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+Found better M in iteration 11
+COFIBMRM: User Phase started in iteration 12
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 12
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+Found better M in iteration 12
+COFIBMRM: User Phase started in iteration 13
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 13
