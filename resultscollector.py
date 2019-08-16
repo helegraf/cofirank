@@ -1,4 +1,5 @@
 import statistics
+import sys
 
 def writeHeader(case_name, file):
     file.write("%s\n" % case_name)
@@ -29,3 +30,4 @@ def do_case(case_name):
     results_file.write("mean;%f;%f;%f\n" % (statistics.mean(results_10),statistics.mean(results_20),statistics.mean(results_50)))
     results_file.write("std dev;%f;%f;%f\n" % (statistics.stdev(results_10),statistics.stdev(results_20)),statistics.stdev(results_50))
     
+do_case(sys.argv[1])
