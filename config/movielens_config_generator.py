@@ -9,7 +9,7 @@ line = movielens.readline()
 
 while line:
     if line == "string cofi.outfolder out/\n":
-        line = "string cofi.outfolder out_N-%s_Seed-%s/\n" % (N,seed)
+        line = "string cofi.outfolder out_N-%s_seed-%s/\n" % (N,seed)
     elif line == "string cofibmrm.DtrainFile  data/data-u.data_N-10_seed-0_train.lsvm\n":
         line = "string cofibmrm.DtrainFile  data/data-u.data_N-%s_seed-%s_train.lsvm\n" % (N,seed)
     elif line == "string cofibmrm.DtestFile data/data-u.data_N-10_seed-0_test.lsvm\n":
