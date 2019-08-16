@@ -4,7 +4,7 @@ N = sys.argv[1]
 seed = sys.argv[2]
 
 movielens = open("movielens.cfg")
-movielens_new = open("movielens_N-%s_Seed-%s.cfg" % (N,seed),"w+")
+movielens_new = open("movielens_N-%s_seed-%s.cfg" % (N,seed),"w+")
 line = movielens.readline()
 
 while line:
