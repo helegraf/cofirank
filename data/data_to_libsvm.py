@@ -18,6 +18,8 @@ def movielens(line,usersWithValue):
         usersWithValue[parts[0]] = [" " + parts[1] + ":" + parts[2]]    
 
 def netflix(line, usersWithValue):
+    global currmovie
+    
     if line.endswith(':\n'):
         currmovie = line[:-2]
     elif not line == "\n":
