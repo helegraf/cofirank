@@ -2,6 +2,8 @@ import random
 import logging
 import sys
 
+currmovie = "-1"
+
 logging.basicConfig(format="[%(asctime)s] %(levelname)s\t%(message)s",
                     level=logging.DEBUG,
                     datefmt='%m/%d/%y %H:%M:%S')
