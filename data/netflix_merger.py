@@ -16,3 +16,5 @@ for x in range(1,5):
     append_to_file(file1,"combined_data_{}.txt".format(x))
 
 file1.close()
+
+print("Done!")
