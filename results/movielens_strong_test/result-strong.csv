@@ -1,0 +1,2 @@
+iteration , time , norm(U) , norm(M) , norm(A) , test-NDCG@10 , train-NDCG@10 , test-rmse , train-rmse , 
+1 , 0.265625 , 51.0167 , 57.9149 , -1 , 0.771873 , 0.963845 , 0.954073 , 0.646865 , 
