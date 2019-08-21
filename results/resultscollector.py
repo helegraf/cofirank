@@ -16,6 +16,18 @@ def get_result_from_file(result_file_name):
     else:
         return None
 
+def safeMean(sample):
+    if len(sample) > 0:
+        return str(mean(sample))
+    else:
+        return ""
+
+def safeStdDev(sample):
+    if len(sample) > 0:
+        return str(stdev(sample))
+    else:
+        return ""
+
 def do_case(case_name):
     results_file = open("results_%s.csv" % case_name, "w+")
 
@@ -53,8 +65,8 @@ def do_case(case_name):
         results_file.write("\n")
 
     results_file.write("\n")
-    results_file.write("mean;%f;%f;%f\n" % (mean(results_10),mean(results_20),mean(results_50)))
-    results_file.write("std dev;%f;%f;%f\n" % (stdev(results_10),stdev(results_20),stdev(results_50)))
+    results_file.write("mean;%s;%s;%s\n" % (safeMean(results_10),safeMean(results_20),safeMean(results_50)))
+    results_file.write("std dev;%s;%s;%s\n" % (safeStdDev(results_10),safeStdDev(results_20),safeStdDev(results_50)))
 
     results_file.close()
  
