@@ -1,0 +1,33 @@
+Starting up
+Configuration file used: config/netflix_N-20_seed-1.cfg
+Evaluation Mode: WEAK
+Problem:: we have 391152 rows and 17770 columns in D
+Problem: Reading train data from data/data-combined_data_complete.txt_N-20_seed-1_train.lsvm
+Problem: Reading test data from data/data-combined_data_complete.txt_N-20_seed-1_test.lsvm
+DomainModelFactory::DomainModelFactory: Using REGRESSION
+COFIBMRM: User Phase started in iteration 0
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 0
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+Found better M in iteration 0
+COFIBMRM: User Phase started in iteration 1
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 1
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+Found better M in iteration 1
+COFIBMRM: User Phase started in iteration 2
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 2
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 3
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 3
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+Found better M in iteration 3
+COFIBMRM: User Phase started in iteration 4
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 4

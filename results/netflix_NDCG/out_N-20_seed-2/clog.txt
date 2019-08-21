@@ -1,0 +1,101 @@
+Starting up
+Configuration file used: config/netflix_N-20_seed-2.cfg
+Evaluation Mode: WEAK
+Problem:: we have 391152 rows and 17770 columns in D
+Problem: Reading train data from data/data-combined_data_complete.txt_N-20_seed-2_train.lsvm
+Problem: Reading test data from data/data-combined_data_complete.txt_N-20_seed-2_test.lsvm
+DomainModelFactory::DomainModelFactory: Using NDCG
+COFIBMRM: User Phase started in iteration 0
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 0
+Found better M in iteration 0
+COFIBMRM: User Phase started in iteration 1
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 1
+Found better M in iteration 1
+COFIBMRM: User Phase started in iteration 2
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 2
+COFIBMRM: User Phase started in iteration 3
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 3
+Found better M in iteration 3
+COFIBMRM: User Phase started in iteration 4
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 4
+COFIBMRM: User Phase started in iteration 5
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 5
+COFIBMRM: User Phase started in iteration 6
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 6
+COFIBMRM: User Phase started in iteration 7
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 7
+COFIBMRM: User Phase started in iteration 8
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 8
+COFIBMRM: User Phase started in iteration 9
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 9
+COFIBMRM: User Phase started in iteration 10
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 10
+COFIBMRM: User Phase started in iteration 11
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 11
+COFIBMRM: User Phase started in iteration 12
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 12
+COFIBMRM: User Phase started in iteration 13
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 13
+COFIBMRM: User Phase started in iteration 14
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 14
+COFIBMRM: User Phase started in iteration 15
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 15
+COFIBMRM: User Phase started in iteration 16
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 16
+COFIBMRM: User Phase started in iteration 17
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 17
+COFIBMRM: User Phase started in iteration 18
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 18
+COFIBMRM: User Phase started in iteration 19
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 19
+COFIBMRM: User Phase started in iteration 20
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 20
+COFIBMRM: User Phase started in iteration 21
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 21
+COFIBMRM: User Phase started in iteration 22
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 22
+COFIBMRM: User Phase started in iteration 23
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 23
+COFIBMRM: User Phase started in iteration 24
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 24
+COFIBMRM: User Phase started in iteration 25
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 25
+COFIBMRM: User Phase started in iteration 26
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 26
+COFIBMRM: User Phase started in iteration 27
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 27
+COFIBMRM: User Phase started in iteration 28
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 28
+COFIBMRM: User Phase started in iteration 29
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 29
+COFIBMRM: User Phase started in iteration 30
