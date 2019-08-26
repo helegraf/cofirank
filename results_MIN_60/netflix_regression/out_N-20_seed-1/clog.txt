@@ -1,0 +1,168 @@
+Starting up
+Configuration file used: config/netflix_N-20_seed-1.cfg
+Evaluation Mode: WEAK
+Problem:: we have 301898 rows and 17770 columns in D
+Problem: Reading train data from data/data-combined_data_complete.txt_N-20_seed-1_train.lsvm
+Problem: Reading test data from data/data-combined_data_complete.txt_N-20_seed-1_test.lsvm
+DomainModelFactory::DomainModelFactory: Using REGRESSION
+COFIBMRM: User Phase started in iteration 0
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 0
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+Found better M in iteration 0
+COFIBMRM: User Phase started in iteration 1
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 1
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+Found better M in iteration 1
+COFIBMRM: User Phase started in iteration 2
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 2
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+Found better M in iteration 2
+COFIBMRM: User Phase started in iteration 3
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 3
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+Found better M in iteration 3
+COFIBMRM: User Phase started in iteration 4
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 4
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+Found better M in iteration 4
+COFIBMRM: User Phase started in iteration 5
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 5
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 6
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 6
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 7
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 7
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+Found better M in iteration 7
+COFIBMRM: User Phase started in iteration 8
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 8
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+Found better M in iteration 8
+COFIBMRM: User Phase started in iteration 9
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 9
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 10
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 10
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 11
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 11
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 12
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 12
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 13
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 13
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 14
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 14
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 15
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 15
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 16
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 16
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+Found better M in iteration 16
+COFIBMRM: User Phase started in iteration 17
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 17
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 18
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 18
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 19
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 19
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 20
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 20
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 21
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 21
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 22
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 22
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 23
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 23
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 24
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 24
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 25
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 25
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 26
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 26
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 27
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 27
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 28
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 28
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 29
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 29
+
+WARNING: BMRM exceeded maximum number of iterations ! 70
+COFIBMRM: User Phase started in iteration 30
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 30

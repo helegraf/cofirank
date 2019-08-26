@@ -1,0 +1,89 @@
+Starting up
+Configuration file used: config/netflix_N-10_seed-1.cfg
+Evaluation Mode: WEAK
+Problem:: we have 301898 rows and 17770 columns in D
+Problem: Reading train data from data/data-combined_data_complete.txt_N-10_seed-1_train.lsvm
+Problem: Reading test data from data/data-combined_data_complete.txt_N-10_seed-1_test.lsvm
+DomainModelFactory::DomainModelFactory: Using NDCG
+COFIBMRM: User Phase started in iteration 0
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 0
+Found better M in iteration 0
+COFIBMRM: User Phase started in iteration 1
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 1
+COFIBMRM: User Phase started in iteration 2
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 2
+COFIBMRM: User Phase started in iteration 3
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 3
+COFIBMRM: User Phase started in iteration 4
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 4
+COFIBMRM: User Phase started in iteration 5
+COFIBMRM: UserPhase finished 
+COFIBMRM: Movie Phase started in iteration 5
+Found better M in iteration 5
+cofi::Problem::save(): Save is disabled. 
+Usage statistics of configuration fields:
+type , name , readCount, writeCount
+double , bmrm.epsilonTol , 0 , 1
+double , bmrm.gammaTol , 0 , 1
+double , bmrm.minOptimProgress , 1811394 , 1
+double , bmrm.minProgress , 1811394 , 1
+double , bmrm.minRelativeOptimProgress , 1811394 , 1
+double , bmrm.minRelativeProgress , 1811394 , 1
+double , cofi.adaptiveRegularization.uExponent , 0 , 2
+double , cofi.adaptiveRegularization.wExponent , 0 , 2
+double , cofi.allowedDivergence , 1 , 1
+double , cofi.iterator.dense.defaultvalue , 0 , 1
+double , cofi.minProgress , 0 , 1
+double , cofi.minRelativeProgress , 0 , 1
+double , cofi.moviephase.lambda , 1 , 2
+double , cofi.userphase.lambda , 1 , 2
+double , loss.ndcg.c_exponent , 9962634 , 2
+double , loss.weightedSoftMargin.negativeWeight , 0 , 1
+double , loss.weightedSoftMargin.positiveWeight , 0 , 1
+double , sgd.initialStepSize , 0 , 1
+double , sgd.minRelativeProgress , 0 , 1
+int    , bmrm.maxIter , 0 , 1
+int    , bmrm.maxNumberOfIterations , 1811394 , 1
+int    , cofi.dimW , 1 , 2
+int    , cofi.eval.binary , 1 , 2
+int    , cofi.eval.brmse , 0 , 1
+int    , cofi.eval.evaluateOnTestSet , 1 , 1
+int    , cofi.eval.evaluateOnTrainSet , 1 , 1
+int    , cofi.eval.ir , 0 , 1
+int    , cofi.eval.mse , 1 , 2
+int    , cofi.eval.ndcg , 1 , 2
+int    , cofi.eval.ndcg.k , 1 , 2
+int    , cofi.eval.norm , 1 , 1
+int    , cofi.kdd09.bmrmqueryphase , 0 , 1
+int    , cofi.maxIterations , 1 , 2
+int    , cofi.minIterations , 1 , 2
+int    , cofi.sequentialuserphase , 0 , 1
+int    , cofi.storeF , 1 , 2
+int    , cofi.storeM , 0 , 1
+int    , cofi.storeModel , 1 , 1
+int    , cofi.storeU , 0 , 1
+int    , cofi.useAdaptiveRegularization , 1 , 2
+int    , cofi.useGraphKernel , 1 , 2
+int    , cofi.useMovieOffset , 1 , 1
+int    , cofi.useOffset , 0 , 1
+int    , cofi.useSigmaRegularizer , 0 , 1
+int    , cofi.useUserOffset , 1 , 1
+int    , loss.ndcg.trainK , 9962634 , 2
+int    , sgd.maxNumberOfIterations , 0 , 1
+string , bmrm.innerSolver , 0 , 1
+string , cofi.codePath , 1 , 1
+string , cofi.iterator , 0 , 1
+string , cofi.loss , 1 , 2
+string , cofi.outfolder , 2 , 1
+string , cofi.regularizer , 0 , 1
+string , cofi.solver , 0 , 1
+string , cofibmrm.DtestFile , 1 , 1
+string , cofibmrm.DtrainFile , 1 , 1
+string , cofibmrm.evaluation , 1 , 1
+string , cofibmrm.format , 0 , 1
+Done!
